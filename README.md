@@ -1,2 +1,2 @@
-# PGDAC
-## This Contains my assignmwnts and work done during academics.
+## PGDAC
+# This contains my assignments and work done in the academics.
