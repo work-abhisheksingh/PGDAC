@@ -1,0 +1,29 @@
+doctype html
+html(lang="en")
+    head
+        title #{title}
+        link(rel='stylesheet' href='/css/mystyle.css')
+    body
+        a(href='/') Home
+        h1 Update Employee Details
+        form(method="POST" action="/update")
+            table
+                tr
+                    td
+                        label Employee Id: 
+                    td
+                        
+                        input(name="empid" type="text" value="#{empob.empid}" readonly=ro)
+                tr
+                    td
+                        label Name: 
+                    td
+                        input(name="ename" type="text" value="#{empob.ename}")
+                tr
+                    td
+                        label Salary: 
+                    td
+                        input(name="sal" type="text" value="#{empob.sal}")
+                tr
+                    td(colspan="2" align="center")
+                        input(type="submit" value="Update Employee")

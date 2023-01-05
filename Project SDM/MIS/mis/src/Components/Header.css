@@ -1,0 +1,51 @@
+.myheaderdiv {
+    padding: 10px 0;
+    height: 60px;
+    overflow: hidden;
+    line-height: 40px;
+  }
+  
+  
+  .myheaderdiv__title {
+    float: left;
+    font-size: 14px;
+    font-weight: 400;
+    text-rendering: auto;
+    transform: translate(0,0);
+  
+ 
+    }
+  
+  
+  .myheaderdiv__actions {
+    float: right;
+    padding: 8px 0;
+    line-height: 24px;
+  
+   
+    }
+  
+    .btn {
+      display: block;
+      margin: 0;
+      color: #999;
+      font-size: 14px;
+      line-height: 24px;
+    }
+  
+    .link {
+      display: block;
+      color: inherit;
+      font-size: 14px;
+      text-decoration: none;
+      text-rendering: auto;
+      transform: translate(0,0);
+    }
+  
+  
+    .link--github {
+      font-size: 24px;
+  
+   
+            }
+    

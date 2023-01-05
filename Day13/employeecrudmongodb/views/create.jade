@@ -1,0 +1,33 @@
+doctype html
+html(lang="en")
+    head
+        title #{title}
+        link(rel='stylesheet' href='/css/mystyle.css')
+    body
+        a(href='/') Home
+        h1 Add Employee Details
+        form(method="POST" action="/adddata")
+            table
+                tr
+                    td
+                        label Id: 
+                    td
+                        input(name="keyid" type="text" placeholder="enetr _id")
+                tr
+                    td
+                        label Employee id: 
+                    td
+                        input(name="eid" type="text" placeholder="enter empid")
+                tr
+                    td
+                        label Name: 
+                    td
+                        input(name="ename" type="text" placeholder="Name")
+                tr
+                    td
+                        label Salary: 
+                    td
+                        input(name="sal" type="text" placeholder="salary")
+                tr
+                    td(colspan="2" align="center")
+                        input(type="submit" value="Add Employee")
