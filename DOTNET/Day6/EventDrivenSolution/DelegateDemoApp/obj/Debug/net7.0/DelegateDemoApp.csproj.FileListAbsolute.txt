@@ -1,0 +1,15 @@
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.exe
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.deps.json
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.runtimeconfig.json
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.dll
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.pdb
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.csproj.AssemblyReference.cache
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.AssemblyInfoInputs.cache
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.AssemblyInfo.cs
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.csproj.CoreCompileInputs.cache
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.dll
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\obj\Debug\net7.0\refint\DelegateDemoApp.dll
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.pdb
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.genruntimeconfig.cache
+E:\Abhishek_Sudarshan\.Net\dotnet\Day6\EventDrivenSolution\DelegateDemoApp\obj\Debug\net7.0\ref\DelegateDemoApp.dll
