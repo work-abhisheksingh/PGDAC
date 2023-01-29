@@ -1,14 +1,14 @@
 @{
-    ViewData["Title"] = "Products Gallery Page";
+    ViewData["Title"] = "Loginpage Gallery Page";
 }
 
 <h1>Catalog</h1>
 <hr/>
 <div class="text-center">
     @{
-        List<Product> allProducts=(List<Product>)ViewData["catalog"]; 
+        List<Product> allLoginpage=(List<Product>)ViewData["catalog"]; 
         <ol>
-            @foreach(Product flower in allProducts){
+            @foreach(Product flower in allLoginpage){
                 <li>@flower.Title</li>
             }
         </ol>

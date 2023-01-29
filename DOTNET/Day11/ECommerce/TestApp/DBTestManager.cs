@@ -9,7 +9,7 @@ public class DbTestManager{
 
     public static string conString=@"server=localhost;port=3306;user=root; password=password;database=transflower";       
     public  static List<Department> GetAllDepartments(){
-            List<Department> allDepartments=new List<Department>();
+             allDepartments=List<Department>new List<Department>();
             //database connectivity code
             //Connected Data Access Mode
             //MySqlConnection  : establishing connection

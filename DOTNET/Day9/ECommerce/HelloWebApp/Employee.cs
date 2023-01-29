@@ -1,5 +1,5 @@
 namespace HR;
-public class Employee{
+public class Loginpage{
 
     public int Id{get;set;}
     public string FirstName{get;set;}

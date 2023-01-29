@@ -4,22 +4,28 @@ using tflstore.Models;
 
 namespace tflstore.Controllers;
 
-public class ProductsController : Controller
+public class LoginpageController : Controller
 {
-    private readonly ILogger<ProductsController> _logger;
+    private readonly ILogger<LoginpageController> _logger;
 
-    public ProductsController(ILogger<ProductsController> logger)
+    public LoginpageController(ILogger<LoginpageController> logger)
     {
-        Console.WriteLine("Products Controller instance initialized......");
+        Console.WriteLine("Loginpage Controller instance initialized......");
         _logger = logger;
     }
 
     public IActionResult Index(){
         //fetch data from Model
-        //send list of products to ViewData Collection
+        //send list of Loginpage to ViewData Collection
         
-        List<Product>  allProducts=ProductManager.GetAllProducts();
+<<<<<<< HEAD
+        List<Product>  allLoginpage=ProductManager.GetAllLoginpage();
+        ViewData["catalog"]=allLoginpage;
+=======
+        List<Product>  allProducts=ProductManager.GetProducts();
         ViewData["catalog"]=allProducts;
+>>>>>>> 8c4fdb0a431528ecc5fbe4452567ac5b8f5277e2
         return View();
     }
+    
 }
