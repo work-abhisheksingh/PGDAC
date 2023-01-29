@@ -1,9 +1,0 @@
-dotnet new webapi -n Name
-dotnet add package mysql.data
-dotnet add package Microsoft.AspNetCore.Cors
-dotnet add package Microsoft.EntityFrameworkCore.Design
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer
-
-React
-npm install
-npm start
