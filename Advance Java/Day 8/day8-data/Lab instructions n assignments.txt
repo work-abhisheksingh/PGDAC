@@ -141,6 +141,32 @@ Resposne : Welcome message displaying changing time stamp
 
 1.2 Integrate it with hibernate : to display product list under a specific chose category name.
 
-Entry Point -- Dispatcher Servlet --> Life Cycle by (Web Container).
+Day 8
+1. Download spring boot related dependencies
+How ?
+Either import a readymade spring boot project 
+OR
+BEST option 
+Create a new one from scratch. (Refer : "day8-data\day8_help\spring boot\spring boot sequence.txt")
+NOTE : 
+It will take some time to download the dependencies , so in the meanwhile
+continue with : day7 's spring_mvc_lab project
+Objective : Display all products with desc containing a keyword
 
+2. After downloading spring boot dependencies ,
+Follow the steps from  : spring boot sequence.txt 
+Port yesterday's  project : spring_mvc_lab , to spring boot
+Display products with desc containing a keyword.
+
+3. Try to write a dao layer unit test case .
+(ref : day8_spring_mvc)
+
+4. All screenshots shared in today's help
+
+Reading H.W (Exam objective n Internals understanding)
+1. Please go through : "day8-data\day8_help\diagrams\Spring MVC Hibernate Revision.png"
+Detailed explanation of tags is available in : "day7-data\day7_help\steps for spring mvc hibernate.txt"
+
+2. For the introduction to spring boot 
+Refer : "day8-data\day8_help\spring boot\regarding spring boot.txt"
 
